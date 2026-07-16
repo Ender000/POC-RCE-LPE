@@ -1,0 +1,8 @@
+runs/
+*_test_*.ps1
+_find_nonascii.ps1
+_fix_nonascii.ps1
+fixed/
+verification/
+*.exe
+*.pdb
